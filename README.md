@@ -62,7 +62,7 @@ EMOTICON PROBLEM: Create a function that changes specific words into emoticons. 
 UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables.
 
     def unpack_list():
-        # Prompt the user to enter a list of numbers separated by commas
+        # Make the user to enter a list of numbers separated by commas
         input_string = input("Enter a list of numbers separated by commas (e.g., 1,2,3,4,5,6): ")
         
         # Convert the input string to a list of integers
